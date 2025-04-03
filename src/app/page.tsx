@@ -23,7 +23,7 @@ export default function Home() {
             Train with <span className="text-blue-600">Mikey Eckmen</span>
           </h1>
           <p className="text-xl text-slate-700">
-            Ready to transform your life with fun, personalized fitness? Let's make your fitness journey enjoyable and effective!
+            Ready to transform your life with fun, personalized fitness? Let&apos;s make your fitness journey enjoyable and effective!
           </p>
           <div className="flex gap-4 pt-4">
             <Button size="lg" className="bg-blue-600 hover:bg-blue-700">Start Your Journey</Button>
@@ -54,7 +54,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-xl font-bold">Fun Workouts</h3>
                 <p className="text-slate-600">
-                  Training doesn't have to be boring! My sessions are designed to be enjoyable while still delivering results.
+                  Training doesn&apos;t have to be boring! My sessions are designed to be enjoyable while still delivering results.
                 </p>
               </div>
             </CardContent>
