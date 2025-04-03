@@ -20,7 +20,7 @@ export default function Home() {
       <section className="container mx-auto py-20 px-4 flex flex-col md:flex-row items-center gap-12">
         <div className="flex-1 space-y-6">
           <h1 className="text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900">
-            Train with <span className="text-blue-600">Mikey Eckmen</span>
+            Train with <span className="text-blue-600">Mikey Eckman</span>
           </h1>
           <p className="text-xl text-slate-700">
             Ready to transform your life with fun, personalized fitness? Let&apos;s make your fitness journey enjoyable and effective!

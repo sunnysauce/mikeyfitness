@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MikeyFit | Personal Training with Mikey Eckmen",
-  description: "Transform your life with fun, personalized fitness training by Mikey Eckmen. Expert personal training that makes fitness enjoyable and effective.",
+  title: "MikeyFit | Personal Training with Mikey Eckman",
+  description: "Transform your life with fun, personalized fitness training by Mikey Eckman. Expert personal training that makes fitness enjoyable and effective.",
 };
 
 export default function RootLayout({
